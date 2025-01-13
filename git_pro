@@ -1,2 +1,3 @@
-def hello()
-    return
+def hello():
+    hello = "Hello dev!"
+    return hello
